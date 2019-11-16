@@ -13598,11 +13598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio06API-master\\Laboratorio3Pizzas\\Lab03PizzasMongo\\Lab03PizzasMongo.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio3Pizzas\\Lab03PizzasMongo\\Lab03PizzasMongo.csproj",
       "projectName": "Lab03PizzasMongo",
-      "projectPath": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio06API-master\\Laboratorio3Pizzas\\Lab03PizzasMongo\\Lab03PizzasMongo.csproj",
+      "projectPath": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio3Pizzas\\Lab03PizzasMongo\\Lab03PizzasMongo.csproj",
       "packagesPath": "C:\\Users\\lisdiaz\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio06API-master\\Laboratorio3Pizzas\\Lab03PizzasMongo\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio3Pizzas\\Lab03PizzasMongo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lisdiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",

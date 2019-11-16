@@ -12628,11 +12628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio06API-master\\Laboratorio3Pizzas\\Laboratorio3Pizzas\\Laboratorio3Pizzas.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio3Pizzas\\Laboratorio3Pizzas\\Laboratorio3Pizzas.csproj",
       "projectName": "Laboratorio3Pizzas",
-      "projectPath": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio06API-master\\Laboratorio3Pizzas\\Laboratorio3Pizzas\\Laboratorio3Pizzas.csproj",
+      "projectPath": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio3Pizzas\\Laboratorio3Pizzas\\Laboratorio3Pizzas.csproj",
       "packagesPath": "C:\\Users\\lisdiaz\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio06API-master\\Laboratorio3Pizzas\\Laboratorio3Pizzas\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Downloads\\Laboratorio06API-master\\Laboratorio3Pizzas\\Laboratorio3Pizzas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lisdiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
