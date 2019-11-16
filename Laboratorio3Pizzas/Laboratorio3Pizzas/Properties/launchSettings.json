@@ -11,6 +11,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
+      "launchUrl": "http://localhost:52518/api/pizza",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
