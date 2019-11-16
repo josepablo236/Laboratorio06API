@@ -1,0 +1,16 @@
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\bin\Debug\netcoreapp2.1\appsettings.Development.json
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\bin\Debug\netcoreapp2.1\appsettings.json
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\bin\Debug\netcoreapp2.1\Laboratorio3Pizzas.deps.json
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\bin\Debug\netcoreapp2.1\Laboratorio3Pizzas.runtimeconfig.json
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\bin\Debug\netcoreapp2.1\Laboratorio3Pizzas.runtimeconfig.dev.json
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\bin\Debug\netcoreapp2.1\Laboratorio3Pizzas.dll
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\bin\Debug\netcoreapp2.1\Laboratorio3Pizzas.pdb
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\obj\Debug\netcoreapp2.1\Laboratorio3Pizzas.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\obj\Debug\netcoreapp2.1\Laboratorio3Pizzas.RazorAssemblyInfo.cache
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\obj\Debug\netcoreapp2.1\Laboratorio3Pizzas.RazorAssemblyInfo.cs
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\obj\Debug\netcoreapp2.1\Laboratorio3Pizzas.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\obj\Debug\netcoreapp2.1\Laboratorio3Pizzas.AssemblyInfo.cs
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\obj\Debug\netcoreapp2.1\Laboratorio3Pizzas.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\obj\Debug\netcoreapp2.1\Laboratorio3Pizzas.dll
+\\Mac\Home\Downloads\Laboratorio06API-master\Laboratorio06API-master\Laboratorio3Pizzas\Laboratorio3Pizzas\obj\Debug\netcoreapp2.1\Laboratorio3Pizzas.pdb
